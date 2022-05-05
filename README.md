@@ -62,7 +62,7 @@ function appendCard(card) {
 
 ```
 ```html
-     <di class="container">
+     <div class="container">
         <h1 class="antr" onclick="showCoords(event)">Click this!.</h1>
         <p id="demo"></p>
         <div onmousedown="WhichButton(event)"></div>
@@ -75,7 +75,7 @@ function appendCard(card) {
 
 
 
-        //
+        
 
 
         </div>
